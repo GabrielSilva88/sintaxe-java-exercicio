@@ -224,6 +224,13 @@ public class SequencesBasic {
 		 * ele já fumou. Considere que um fumante perde 10min de vida a cada cigarro.
 		 * Calcule quantos dias de vida um fumante perderá e exiba o total em dias.
 		 */
+			// NÃO CONSEQUIR FAZER.
+			
+			System.out.println("Digite a quantidade de cigarros por dias: ");
+			int qtdCigDia = scan.nextInt();
+			
+			System.out.println("Digite quantos anos fumando: ");
+			int anosFumando = scan.nextInt();
 			
 			
 	}
